@@ -1,0 +1,12 @@
+
+Progress in week 3:
+
+• Created Recipe Book screen, Settings screen, and Meal Plan Screen (Will and Mina)
+• Implemented recipe search (Mina)
+• Implemented share sheet on recipes (Will)
+• Implemented theming/settings page (Will)
+• Implemented sign out (Will)
+• Styled themes/added new themes (Mina)
+• Styled meal plan screen (Mina)
+• Implemented recipe book sharing (Will)
+• Bug fixes, bug fixes, bug fixes (Will and Mina)

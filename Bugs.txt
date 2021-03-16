@@ -1,0 +1,9 @@
+Bugs to Fix:
+
+Carousel disappearing ✔
+Firebase errors ✔
+Listener updates ✔
+Label Padding ✔
+Background Image loading ✔
+Firestore deletion on everything
+Dismiss keyboard on tap ✔

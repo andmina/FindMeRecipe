@@ -1,0 +1,9 @@
+
+Progress in week 2:
+
+• Created sign in screen and implemented sign in with email (Will)
+• Created Recipe List and Recipe Details Screens (Will and Mina)
+• Implemented REST API calls to fetch recipes and parsed/validated JSON data (Will and Mina)
+• Styled Recipe List, Recipe Details, and Sign In Screens (Will and Mina)
+• Hyperlinked YouTube URL (Mina)
+• Implemented recipe saving/added picker or a text input for a meal category (Will)

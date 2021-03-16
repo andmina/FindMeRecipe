@@ -1,0 +1,10 @@
+
+Progress in week 1:
+
+• Create navigation stack with Tab and Stack Navigators (Will)
+• Create custom Search component and Button components (Mina)
+• Initialize Firestore (Will)
+• Did most of the styling in the Styles.js file (Will and Mina)
+• Created Grid component from scratch (pure React Native) (Will and Mina)
+• Fetched and sorted list of categories from TheMealDB (Will)
+
