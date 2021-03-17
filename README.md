@@ -1,6 +1,6 @@
 # Find Me Recipe
 
-##About
+## About
 
 App that allows anyone to find recipes around the world, save them to your virtual recipe book and plan them with your friends and family!
 
